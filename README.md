@@ -21,4 +21,4 @@ If you would like to contribute to this project, please contact me on Discord or
 
 ## License
 
-OFJ.Common is licensed under the [GNU V.3 License] (LICENSE)
+OFJ.Common is licensed under the [GNU License](LICENSE)
