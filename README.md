@@ -11,9 +11,9 @@ In order to contribute and edit this project to your liking, you will need these
 
 ### Installing
 
-1.) To install OFJ.Common for your project head to [Releases](https://github.com/XibblEDK/OFJ.Common/releases) and download the latest release.
-2.) Go into your project in your preferred IDE and then add the downloaded .dll file to your references.
-3.) Get some water and then code!
+1. To install OFJ.Common for your project head to [Releases](https://github.com/XibblEDK/OFJ.Common/releases) and download the latest release.
+2. Go into your project in your preferred IDE and then add the downloaded .dll file to your references.
+3. Get some water and then code!
 
 ## Contributing
 
