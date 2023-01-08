@@ -17,7 +17,7 @@ In order to contribute and edit this project to your liking, you will need these
 
 ## Contributing
 
-If you would like to contribute to this project, please contact me on Discord or send me a mail (officerjaredlspdfr@gmail.com)
+If you would like to contribute to this project, please contact me on [Discord](https://discord.gg/Dn6hu49pSW) or send me a [mail](officerjaredlspdfr@gmail.com)
 
 ## License
 
